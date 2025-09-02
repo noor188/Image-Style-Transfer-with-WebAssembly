@@ -59,7 +59,7 @@ pnpm dev
 Open your browser and go to http://localhost:3000
 
 ## Demo
-<a href="#"> Youtube Video</a>
+<a href="https://youtu.be/hT_c5IZgp1s"> Youtube Video</a>
 
 ## 🧠 Future Improvements
 - Add a "Style Strength" control that blends original and stylized outputs; include "Download PNG" and "Reset" actions
